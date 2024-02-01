@@ -2,6 +2,7 @@
 // @name     Removing ALTT ad banners
 // @version  1.0
 // @description  removing allt top banner in homepage, boards, topic thread (everywhere in altt)
+// @author PX-Z
 // ==/UserScript==
 
 
