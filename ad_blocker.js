@@ -7,7 +7,7 @@
 
 
 (function() {
- let url = [removed].href;
+ let url = location.href;
   // check if page is profile page
   if(url.indexOf("index.php?action=profile") > 0){
   // removing top banner ad
